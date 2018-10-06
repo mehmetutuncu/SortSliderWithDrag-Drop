@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    
+    background-color: #f7f1e3;
+    padding: 0;
+    
+}
+h1{
+   
+    text-align: center;
+    color:#b33939;
+}
+ul{
+    list-style:none;
+    
+}
+li{
+    list-style:none;
+   
+   
+}
+.slider_css{
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 5px;
+    width: 97%;
+    height:160px;
+    border:2px solid red;
+}
